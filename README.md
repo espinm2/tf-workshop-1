@@ -1,6 +1,6 @@
 # Terraform Workshop 1
 
-- Deploy a docker container using terraform 
+- Deploy a docker container using Terraform 
 - Create dev, stage, and production enviroments
 - Create a local module to adhere to DRY principles
 - Refactor code with Terragrunt
