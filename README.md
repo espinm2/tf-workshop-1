@@ -1,7 +1,7 @@
 # Terraform Workshop 1
 
 - Deploy a docker container using Terraform 
-- Create dev, stage, and production enviroments
+- Create dev, stage, and production environments
 - Create a local module to adhere to DRY principles
 - Refactor code with Terragrunt
 
@@ -13,11 +13,11 @@
 
 ## infrastructure-live-v1
 This is a single environment setup.
-All values are hardcoded.
+All values are hard-coded.
 
 ## infrastructure-live-v2
 This is a multi-environment setup.
-We use variables to avoid having to hardcode the environment in the code.
+We use variables to avoid having to hard-coded the environment in the code.
 
 ## infrastructure-live-v3
 This is a multi-environment setup.
