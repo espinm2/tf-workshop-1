@@ -1,5 +1,5 @@
 # Terraform Module Example
 
 ## Notable
-- remove providers block
+- no `.tfvars` files set here
 - created an outputs file
